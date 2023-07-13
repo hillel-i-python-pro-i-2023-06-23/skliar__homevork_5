@@ -14,4 +14,3 @@ RUN pip install --upgrade pip && \
 COPY . .
 
 CMD ["python", "main.py"]
-
